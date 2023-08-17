@@ -1,0 +1,131 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaexercicios;
+
+import java.util.Scanner;
+
+
+
+public class JavaExercicios {
+
+  
+    public static void main(String[] args) {
+        Scanner ler = new Scanner(System.in);
+        
+        
+     /*   
+        
+       // Exercício 1)
+        
+        System.out.println("Digite um valor A para somar com valor B");
+        int a = ler.nextInt();
+        
+        System.out.println("Digite um valor B para somar com valor A");
+        int b = ler.nextInt();        
+
+  
+        System.out.println(a+b + " é o resultado da soma entre A e B");
+   */     
+       
+     /*
+        // Exercício 2)
+        
+        System.out.println("Digite A para subtrair de B");
+        int a = ler.nextInt();
+        
+        System.out.println("Digite B para realizar a subtração");
+        int b = ler.nextInt();
+        
+        System.out.println(a-b + " é a subtração entre A e B");
+     
+    */
+     
+     /*
+        // Exercício 3)
+        
+        System.out.println("Digite um valor A para ultiplicar com B");
+        int a = ler.nextInt();
+        
+        System.out.println("Digite um valor A para ultiplicar com B");
+        int b = ler.nextInt();
+        
+        System.out.println(a*b + " é a multiplicação entre A e B");
+  
+     */
+     
+     /*
+            // Exercício 4)
+     
+        
+     
+        System.out.println("digite um valor A para dividir por B");
+        int a = ler.nextInt();
+        
+        System.out.println("digite um valor B para ser dividido por A");
+        int b = ler.nextInt();
+        
+        System.out.println(a/b + " é a divisão entre A e B");
+     
+     */
+     
+    /* 
+        // Exercício 5)
+        
+        System.out.println("Digite valores A, B e C para calcularmos a média \n");
+        
+        System.out.println("Valor A");
+        double a = ler.nextInt();
+        
+        
+        System.out.println("Valor B");
+        double b = ler.nextInt();
+        
+        
+        
+        System.out.println("Valor C");
+        double c = ler.nextInt();
+        
+        System.out.println(a+b+c + " é a soma entre os três valores");
+        System.out.println((a+b+c) / 3 + " é a média entre os três valores");
+        
+     */
+      /*  
+    
+        // Exercício 6)
+        
+        System.out.println("Digite um valor para aparecer na tela:");
+        double a = ler.nextInt();
+        
+        System.out.println(a);
+    
+    */
+    
+        // Exercício 7)
+        
+        System.out.println("Com base na altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7 x altura) – 58. \n");
+        
+        System.out.println("Insira sua altura:");
+        
+        double a = ler.nextDouble();
+        
+        System.out.println((72.7 * a) - 58);
+            
+        
+           
+    
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
